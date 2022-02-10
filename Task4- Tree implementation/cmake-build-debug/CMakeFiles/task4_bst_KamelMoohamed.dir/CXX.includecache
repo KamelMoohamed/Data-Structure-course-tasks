@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/my_tree.cpp
+iostream
+-
+my_tree.h
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/my_tree.h
+
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/my_tree.h
+vector
+-
+algorithm
+-
+queue
+-
+stack
+-
+assert.h
+-
+

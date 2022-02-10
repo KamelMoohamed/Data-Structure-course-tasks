@@ -1,0 +1,3 @@
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/cmake-build-debug/CMakeFiles/task4_bst_KamelMoohamed.dir
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zizo/Downloads/MyGitHub/task4-bst-KamelMoohamed/cmake-build-debug/CMakeFiles/rebuild_cache.dir
